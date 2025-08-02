@@ -2,4 +2,10 @@ import numpy as np
 
 print("Hello World!!")
 
-print("このプログラムは最初のプログラムです！")
+
+
+print("Sho")
+
+def print_hello():
+    message = "Hello from the function!"
+    print(message)
